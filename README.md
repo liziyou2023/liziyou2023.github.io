@@ -1,2 +1,2 @@
-# me.github.io
-About liziyou2023.
+# About me.
+https://liziyou2023.github.io/
